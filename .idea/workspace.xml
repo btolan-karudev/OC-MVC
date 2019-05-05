@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f61cdc9-83ce-41fc-a486-6e8ae66f75d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OC-MVC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/home.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/index55.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_class/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_class/src/Database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_class/src/MySQLiClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_class/src/PDOClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/OC-MVC/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>View does not exist</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OC-MVC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OC-MVC/app/controllers/Pages.php" />
+        <option value="$PROJECT_DIR$/OC-MVC/app/libraries/Controller.php" />
+        <option value="$PROJECT_DIR$/OC-MVC/app/views/pages/home.html.twig" />
+        <option value="$PROJECT_DIR$/OC-MVC/app/views/pages/index.php" />
+        <option value="$PROJECT_DIR$/OC-MVC/public/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/OC-MVC/vendor/composer" />
+      <path value="$PROJECT_DIR$/OC-MVC/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/OC-MVC/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/OC-MVC/vendor/twig/twig" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="local.jean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="local.jean" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\SensioUniversity\CaseStydyABSTRACTclass\local.jean\OC-MVC\app\libraries" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f61cdc9-83ce-41fc-a486-6e8ae66f75d3" name="Default Changelist" comment="" />
+      <created>1556243175049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556243175049</updated>
+      <workItem from="1556243176346" duration="933000" />
+      <workItem from="1556535229245" duration="6104000" />
+      <workItem from="1556607709812" duration="3478000" />
+      <workItem from="1557089720343" duration="667000" />
+      <workItem from="1557091273647" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11213000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23667377" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="RNConsole" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32555556" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Json Parser" order="3" />
+      <window_info anchor="right" id="JSON Viewer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/OC-MVC" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OC-MVC/kkl/index.php" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/app/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/composer.json" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/app/views/pages/index.php" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/app/bootstrap.php" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/app/config/config.php" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/app/libraries/Core.php" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/app/controllers/Pages.php" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/app/libraries/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/app/views/pages/index55.php" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/vendor/autoload.php" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/app/views/pages/home.html.twig" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/app/views/pages/about.php" />
+    <entry file="file://$PROJECT_DIR$/OC-MVC/public/index.php" />
+  </component>
+</project>
